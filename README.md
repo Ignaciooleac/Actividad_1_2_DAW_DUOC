@@ -1,11 +1,8 @@
 # Actividad_1_2_DAW_DUOC
 Creación y uso de las hojas de estilo
 
-
-Sigla Asignatura	DWY4101	Nombre de la Asignatura	Desarrollo web y Mobile	Tiempo	3 horas
 Nombre del Recurso Didáctico	Creación y uso de las hojas de estilo
 Unidad de Aprendizaje N° 1	Diseño y construcción de páginas web
-Unidades de Competencia	Construye aplicaciones web en un lenguaje de programación que soporten los requerimientos de la organización.
 
 Instrucciones Generales:
 •	El trabajo es de forma grupal y presencial, se desarrollará en el Laboratorio de Computación de la sede Duoc UC.
