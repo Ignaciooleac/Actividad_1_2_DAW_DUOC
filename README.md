@@ -18,7 +18,7 @@ o	El problema surge porque no pueden decidir entre varios diseños presentados p
 o	Dado lo anterior, le piden a usted que construya la página web utilizando uno de los diseños creados.
 o	La imagen del diseño es la siguiente:
  
- ![Image](https://imgur.com/a/4Sr9s8P)
+ ![Image](https://i.imgur.com/hLk9jIv.png)
  
 Para realizar la actividad, debes contemplar las siguientes actividades.
 1.	El jefe de proyectos deberá crear y configurar un nuevo repositorio de versionado.
